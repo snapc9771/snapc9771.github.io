@@ -16,13 +16,7 @@ html {
   height: 100%;
   overflow: hidden;
 }
-#kapil{
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 h1{
   font-family: 'Architects Daughter', cursive;
   color: #efefef;
